@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 alice tries to edit bobs file 
-=======
+
 new text for bob 
->>>>>>> e7fd5014ae2c78e4e496145d49d9886e281b50f4
+
